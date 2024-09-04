@@ -1,8 +1,6 @@
 # Ecommerce Management DBMS Project
 
-As a part of our University Curriculum, we made this project for Database Management Systems (DBMS) - ITE1003.<br>
 This project contains theoretical as well as implementation in SQL.<br>
-If you liked the repo do :star: it. 
 
 ## Pre-requisite
 
@@ -347,8 +345,7 @@ Function to count number of cart items
     insert into payment values(:new.payment_id,:new.payment_date,:new.payment_type,:new.customer_id,:new.cart_id,total);
     end;
 ```
-## Contributors
-Do check the contributors to follow some awesome projects
+
 
 - [@bhumijgupta](https://www.github.com/bhumijgupta)
 - [@YashMeh](https://www.github.com/YashMeh)
